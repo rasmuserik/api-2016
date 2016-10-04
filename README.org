@@ -1,2 +1,0 @@
-* api [[https://api.solsort.com/icon-small.png]]
-
